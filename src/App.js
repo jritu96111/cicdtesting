@@ -1,10 +1,9 @@
 import './App.css';
-import Parent from "./components/parent.tsx"
-
+import LoginPage from './components/login';
 function App() {
   return (
     <div className="App">
-      <Parent/>
+      <LoginPage/>
     </div>
   );
 }
