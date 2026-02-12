@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 
 export default function Parent() {
-  const [name, setName] = useState("Ritu");
+  const [name, setName] = useState("AKASH");
 
   return (
     <div style={{ padding: "20px" }}>
